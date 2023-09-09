@@ -1,4 +1,4 @@
-Retro Snake Game
+# **Retro Snake Game**
 
 
 1. Run python3 main.py in terminal
